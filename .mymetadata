@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="nursinghomemsys"
+  id="myeclipse.1516776088048"
+  context-root="/nursinghomemsys"
+  j2ee-spec="5.0"
+  archive="nursinghomemsys.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
